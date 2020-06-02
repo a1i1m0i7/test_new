@@ -32,6 +32,8 @@ public class digital_stamp_origin {
 
 		int i = 0;
 
+		System.out.println("こんにちは");
+		
 		for (int x = 0; x < point; x++) {// 全ての２ヶ所の組み合わせにおける主催者と参加者の得点を計算
 
 			for (int y = x + 1; y < point; y++) {
