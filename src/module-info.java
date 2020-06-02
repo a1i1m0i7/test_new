@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lab
+ *
+ */
+module stamprally {
+}
